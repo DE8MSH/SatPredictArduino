@@ -18,13 +18,6 @@ char * elements[2][3] = {
   }
 };
 
-long uxtm = 1451743687;
-byte ELold = 0;
-byte ELmin = 0;
-byte ELmax = 0;
-byte ALanz = 0;
-byte maxPred = 2;
-
 boolean AOS = false;
 boolean LOS = false;
 boolean predCalc = false;
